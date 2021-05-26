@@ -1,0 +1,14 @@
+.btn-outline-primary {
+    margin: 10px;
+    width: 500px;
+    height: 100px;
+    a{
+        font-size: 25px;
+    }
+
+    &:hover {
+        a {
+            color: white;
+        }
+    }
+}
